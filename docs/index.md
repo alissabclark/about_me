@@ -6,7 +6,7 @@ You can see some of my published work at the following:
 - [Creating and Using Oracle® Solaris Kernel Zones](https://docs.oracle.com/cd/E36784_01/html/E37629/index.html)
 - [Using Unified Archives for System Recovery and Cloning in Oracle Solaris 11.2](https://docs.oracle.com/cd/E36784_01/html/E38524/index.html)
 
-See [some of my work adapted for GitBook](https://alissa-b-clark.gitbook.io/portfolio-and-examples/).
+See [some of my documentation adapted for GitBook](https://alissa-b-clark.gitbook.io/portfolio-and-examples/).
 
 You can also [view my resume](https://www.dropbox.com/s/c47iseta2vnxolb/aclark-resume.pdf?dl=0). Or send me an [email](mailto:alissabaderclark@gmail.com).
 
