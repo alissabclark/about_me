@@ -1,3 +1,7 @@
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 # About Me
 I'm a technical writer based out of Denver, Colorado. In my career, I've regularly interfaced with Product, Engineering, QA, Training, and Customer Support/Operations organizations. It's always been my pleasure (and challenge!) to ensure that every deliverable I write is understandable and consumable to the targeted audience.  
 
