@@ -12,5 +12,5 @@ And you can see some of my previous published work here:
 - [Creating and Using Oracle® Solaris Kernel Zones](https://docs.oracle.com/cd/E36784_01/html/E37629/index.html)
 - [Using Unified Archives for System Recovery and Cloning in Oracle Solaris 11.2](https://docs.oracle.com/cd/E36784_01/html/E38524/index.html)
 
-You can also view [my resume](https://docs.google.com/document/d/1B3zGu88G80j3vvg4xBGQuCTiBJaYIhuBRDODIdGiFbc/edit?usp=sharing). Or send me an [email](mailto:alissabaderclark@gmail.com).
+You can also send me an [email](mailto:alissabaderclark@gmail.com).
 
